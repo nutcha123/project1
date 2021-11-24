@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "25984153194",
+    "project_id": "flutter-find-animal",
+    "storage_bucket": "flutter-find-animal.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:25984153194:android:4174892822a377fb2fbc13",
+        "android_client_info": {
+          "package_name": "com.example.flutter_firebase_connect"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "25984153194-13fvkj449bo5ig25a53ftouureav76ts.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBWg9t-zPGPjCcNEz5Y7FHFUOwjVTyAuNY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "25984153194-13fvkj449bo5ig25a53ftouureav76ts.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:25984153194:android:5b0b0a25c8aee85e2fbc13",
+        "android_client_info": {
+          "package_name": "test.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "25984153194-13fvkj449bo5ig25a53ftouureav76ts.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBWg9t-zPGPjCcNEz5Y7FHFUOwjVTyAuNY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "25984153194-13fvkj449bo5ig25a53ftouureav76ts.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
